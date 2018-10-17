@@ -1,5 +1,5 @@
 ## Indonesia Province GeoJSON
-
+Indonesia map with province code. It happened to see lot of Indonesian Map GeoJSON didn't include province code respectively in properties. Mostly using cartodb_id only. Here I am trying to catered Indonesian Province Map with Province Code
 
 - indonesia-prov.geojson : Indonesia Province in GeoJSON format
 
