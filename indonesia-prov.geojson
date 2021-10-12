@@ -46375,6 +46375,15 @@
         "Propinsi": "DI. ACEH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
+    },
+    {
+      "id": 11,
+      "properties": {
+        "ID": 33,
+        "kode": 11,
+        "Propinsi": "Provinsi Kalimantan Utara",
+        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+      }
     }
   ]
 }
