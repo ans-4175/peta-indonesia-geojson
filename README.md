@@ -6,7 +6,8 @@ Indonesia map with province code. It happened to see lot of Indonesian Map GeoJS
 ### Source 
 - https://github.com/superpikar/indonesia-geojson/blob/master/indonesia-province-simple.json
 - https://github.com/Vizzuality/growasia_calculator/blob/master/public/indonesia.geojson
+- https://www.indonesia-geospasial.com/2020/04/download-shapefile-shp-batas.html.
 
 ### Issue/ToDo
-- Map for "Kalimantan Utara"
-- Fix Map for "Kalimantan Timur"
+[v] Map for "Kalimantan Utara"
+[v] Fix Map for "Kalimantan Timur"
