@@ -11,3 +11,6 @@ Indonesia map with province code. It happened to see lot of Indonesian Map GeoJS
 ### Issue/ToDo
 [v] Map for "Kalimantan Utara"  
 [v] Fix Map for "Kalimantan Timur"
+
+### Others
+Looking for [Desa Indonesia Map GeoJSON](https://github.com/pararawendy/border-desa-indonesia-geojson)?
