@@ -9,8 +9,9 @@ Indonesia map with province code. It happened to see lot of Indonesian Map GeoJS
 - https://www.indonesia-geospasial.com/2020/04/download-shapefile-shp-batas.html.
 
 ### Issue/ToDo
-[v] Map for "Kalimantan Utara"  
-[v] Fix Map for "Kalimantan Timur"
+[x] Map for "Kalimantan Utara"
+[x] Fix Map for "Kalimantan Timur"
+[ ] Map for "Kalimantan Barat"
 
 ### Others
 Looking for [Desa Indonesia Map GeoJSON](https://github.com/pararawendy/border-desa-indonesia-geojson)?
